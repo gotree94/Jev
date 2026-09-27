@@ -2,9 +2,9 @@
 
 > **작성 기준일:** 2026-09-27
 
-> **대상:**  <br> TypeSafe AI의 System One 모델 **Jev** 를 처음 설정하고 업무 시스템에 적용하려는 개발자
+> **대상:**  TypeSafe AI의 System One 모델 **Jev** 를 처음 설정하고 업무 시스템에 적용하려는 개발자
 
-> **출처:**  <br>[docs.typesafe.ai](https://docs.typesafe.ai/) 공식 문서 (models / api / sdk / confidence / model-jaggedness) <br>
+> **출처:**  [docs.typesafe.ai](https://docs.typesafe.ai/) 공식 문서 (models / api / sdk / confidence / model-jaggedness) <br>
 
 > **이 문서는 로컬 실행 가이드가 아니라 "호스팅 API 연동" 가이드입니다.**  <br>
 > Jev는 오픈소스 가중치를 배포하지 않으며 로컬/프라이빗 설치 옵션이 없습니다.  <br>
